@@ -66,7 +66,7 @@ git clone https://github.com/eallion/memos.top
  在 `assets/img` 目录中，替换成自己的图标和头像。
 
 - `logo.webp` 是网站图标，显示在浏览器标签上。
-- `avatar.jpg` 是头像，显示在每条 Memos 的左侧。
+- `.jpg` 是头像，显示在每条 Memos 的左侧。
 
 4. 上传
 
