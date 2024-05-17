@@ -1,7 +1,7 @@
-@import url("../fonts/result.css");
+@import url("https://chinese-fonts-cdn.deno.dev/chinesefonts3/packages/lxgwwenkai/dist/LXGWWenKai-Regular/result.css");
 
 body {
-    font-family: "LXGW WenKai Lite", -apple-system, BlinkMacSystemFont,
+    font-family: "LXGW WenKai", -apple-system, BlinkMacSystemFont,
         "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB",
         "WenQuanYi Micro Hei", "Microsoft Yahei", "Segoe UI", sans-serif, serif !important;
 }
